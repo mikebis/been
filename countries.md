@@ -1,7 +1,6 @@
 # Europe
 
 - [ ] AL Albania
-- [ ] AD Andorra
 - [x] AT Austria
 - [ ] BY Belarus
 - [x] BE Belgium
@@ -22,20 +21,15 @@
 - [x] IT Italy
 - [x] XK Kosovo
 - [x] LV Latvia
-- [ ] LI Liechtenstein
 - [x] LT Lithuania
-- [x] LU Luxembourg
 - [ ] MK Macedonia
-- [ ] MT Malta
 - [ ] MD Moldova
-- [x] MC Monaco
 - [x] ME Montenegro
 - [x] NL Netherlands
 - [x] NO Norway
 - [x] PL Poland
 - [x] PT Portugal
 - [ ] RO Romania
-- [ ] SM San Marino
 - [x] RS Serbia
 - [x] SK Slovakia
 - [x] SI Slovenia
@@ -44,7 +38,6 @@
 - [x] CH Switzerland
 - [ ] UA Ukraine
 - [x] GB United Kingdom
-- [x] VA Vatican
 
 # Asia
 
