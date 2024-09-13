@@ -1,13 +1,15 @@
 # Europe
 
 - [ ] AL Albania
+- [ ] AD Andorra
 - [x] AT Austria
 - [ ] BY Belarus
 - [x] BE Belgium
-- [ ] BA Bosnia and Herzegovina
+- [x] BA Bosnia and Herzegovina
 - [ ] BG Bulgaria
 - [x] HR Croatia
 - [x] CZ Czech Republic
+- [ ] CY Cyprus
 - [x] DK Denmark
 - [x] EE Estonia
 - [x] FI Finland
@@ -18,26 +20,31 @@
 - [ ] IS Iceland
 - [x] IE Ireland
 - [x] IT Italy
-- [ ] XK Kosovo
+- [x] XK Kosovo
 - [x] LV Latvia
+- [ ] LI Liechtenstein
 - [x] LT Lithuania
 - [x] LU Luxembourg
 - [ ] MK Macedonia
+- [ ] MT Malta
 - [ ] MD Moldova
-- [ ] ME Montenegro
+- [x] MC Monaco
+- [x] ME Montenegro
 - [x] NL Netherlands
 - [x] NO Norway
 - [x] PL Poland
 - [x] PT Portugal
 - [ ] RO Romania
-- [ ] RS Serbia
+- [ ] SM San Marino
+- [x] RS Serbia
 - [x] SK Slovakia
-- [ ] SI Slovenia
+- [x] SI Slovenia
 - [x] ES Spain
 - [x] SE Sweden
 - [x] CH Switzerland
 - [ ] UA Ukraine
 - [x] GB United Kingdom
+- [x] VA Vatican
 
 # Asia
 
