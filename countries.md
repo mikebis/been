@@ -23,13 +23,13 @@
 - [x] LV Latvia
 - [x] LT Lithuania
 - [ ] MK Macedonia
-- [ ] MD Moldova
+- [x] MD Moldova
 - [x] ME Montenegro
 - [x] NL Netherlands
 - [x] NO Norway
 - [x] PL Poland
 - [x] PT Portugal
-- [ ] RO Romania
+- [x] RO Romania
 - [x] RS Serbia
 - [x] SK Slovakia
 - [x] SI Slovenia
