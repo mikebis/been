@@ -1,6 +1,6 @@
 # Europe
 
-- [ ] AL Albania
+- [x] AL Albania
 - [x] AT Austria
 - [ ] BY Belarus
 - [x] BE Belgium
@@ -22,7 +22,7 @@
 - [x] XK Kosovo
 - [x] LV Latvia
 - [x] LT Lithuania
-- [ ] MK Macedonia
+- [x] MK Macedonia
 - [x] MD Moldova
 - [x] ME Montenegro
 - [x] NL Netherlands
